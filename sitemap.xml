@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://misaki.com/index.html</loc>
+    <lastmod>2017-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://misaki.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://misaki.com/images/slide-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://misaki.com/images/slide-01.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://misaki.com/quem-sou.html</loc>
+    <lastmod>2017-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://misaki.com/portf%C3%B3lio.html</loc>
+    <lastmod>2017-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://misaki.com/contato.html</loc>
+    <lastmod>2017-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
